@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav1"
+            android:title="@string/threeDaysFilter" />
+        <!--android:icon="@drawable/baseline_exposure_plus_1_black_24"-->
+        <item
+            android:id="@+id/nav2"
+            android:title="@string/weekFilter" />
+        <item
+            android:id="@+id/nav3"
+            android:title="@string/resetFilter" />
+    </group>
+</menu>

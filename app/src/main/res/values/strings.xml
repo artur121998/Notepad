@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">SpeechToText</string>
+    <string name="ic_library">Библиотека</string>
+    <string name="ic_favor">Избранное</string>
+    <string name="ic_search">Поиск</string>
+    <string name="nav_item1">строка 1</string>
+    <string name="nav_item2">строка 2</string>
+    <string name="nav_item3">строка 3</string>
+    <string name="ic_delete">Удалить запись</string>
+    <string name="etName">Имя заметки</string>
+    <string name="input">Заметка</string>
+    <string name="ic_add">Добавить</string>
+    <string name="header">Название</string>
+    <string name="text">Текст</string>
+    <string name="date">Дата</string>
+    <string name="time">Время</string>
+    <string name="SpeechCreate">созда</string>
+    <string name="SpeechFilter">пока</string>
+    <string name="SpeechReset">сброс</string>
+    <string name="SpeechFilterThree">три</string>
+    <string name="SpeechFilterThreeNumber">3</string>
+    <string name="SpeechFilterWeek">недел</string>
+    <string name="SpeechFilterWeekNumber">7</string>
+    <string name="SpeechName">имя</string>
+    <string name="SpeechText">текст</string>
+    <string name="threeDaysFilter">Записи за 3 дня</string>
+    <string name="weekFilter">Записи за неделю</string>
+    <string name="resetFilter">Сброс фильтра</string>
+    <string name="helpHeader">
+        Голосовые команды в главном меню:
+        </string>
+    <string name="helpCreate">
+        "Создать" - Голосовая команда для создание новой записи, например: "СОЗДАЙ новую запись",
+       </string>
+    <string name="helpShowThreeDays">
+        "Показать за 3 дня" - Голосовая команда для выведения на экран записей созданных в последние 3 дня, например: "ПОКАЖИ записи за последние ТРИ дня",
+        </string>
+    <string name="helpShowSevenDays">
+        "Показать за неделю" - Голосовая команда для выведения на экран записей созданных в последние 7 дней, например: "ПОКАЖИ записи за последнюю НЕДЕЛЮ",
+       </string>
+    <string name="helpReset">
+        "Сбросить" - Голосовая команда для отмены фильтрации, например: "СБРОСЬ фильтрацию"
+        </string>
+    <string name="helpHeader2">
+        Голосовые команды на странице добавления новой записи:
+        </string>
+    <string name="helpNameText">
+    "Имя .... Текст ..." - Голосовая команда для добавления имени и текста в поле создания новой записи, например: "ИМЯ Зимний вечер ТЕКСТ Буря мглою небо кроет..."
+        </string>
+    <string name="ic_help">Помощь</string>
+
+
+</resources>
